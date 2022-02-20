@@ -1,0 +1,5 @@
+FROM alpine:latest
+
+Run atifriani/lamp /data
+EXPOSE
+atifriani/lamp:v0 /data
